@@ -1,0 +1,24 @@
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.08206089562736452
+  lightness: 0.3775622616522014
+  saturation: 0.21693491702899337
+  rhythmicContrast: 0.42757873609662056
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: jsbourbonnais
+layout_spectrum: 0.8174803494475782
+typography_spectrum: 0.2871376995462924
+content: []
+purpose: []
+github: true
